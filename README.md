@@ -3,4 +3,4 @@ taiji-day1
 
 this is red;
 
-this is A;
+red do A;
